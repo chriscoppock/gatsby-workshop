@@ -28,7 +28,7 @@ export default function footer() {
 
           <p>
             <a
-              href="https://monica.dev/gatsbyworkshop"
+              href="https://keen-hodgkin-e0e05f.netlify.app/"
               className="text-gray-700 hover:text-gray-500 no-underline "
               target="_blank"
               rel="noopener noreferrer"

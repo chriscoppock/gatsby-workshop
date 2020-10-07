@@ -1,8 +1,8 @@
 /*eslint no-template-curly-in-string:0*/
 module.exports = {
   siteMetadata: {
-    title: `newSketchXConf 2020`,
-    description: `description`,
+    title: `newReactConf`,
+    description: `we break react configs for fun`,
     author: `@you`,
     siteUrl: `https://keen-hodgkin-e0e05f.netlify.app/`,
   },
@@ -17,7 +17,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#000`,
         display: `minimal-ui`,
-        icon: `src/images/pencil-icon.png`,
+        icon: `src/images/React_js_logo_512px.png`,
       },
     },
     `gatsby-plugin-postcss`,

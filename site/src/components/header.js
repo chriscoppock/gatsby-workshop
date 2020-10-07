@@ -6,6 +6,7 @@ import Logo from "../images/File_React-icon.svg";
 function Header({ siteTitle }) {
   const [isExpanded, toggleExpansion] = useState(false);
   const NavLinks = [{ href: "/", name: "Home" }];
+  const NavLinks = [{ href: "/", name: "Tickets" }];
 
   return (
     <nav className="bg-white">

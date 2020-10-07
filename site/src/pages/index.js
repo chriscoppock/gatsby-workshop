@@ -3,6 +3,7 @@ import React from "react";
 import Layout from "../components/layout";
 import SEO from "../components/seo";
 import sketchnoting from "../images/taking-notes.svg";
+import TalkCard from "../components/TalkCard";
 
 const Hero = () => (
   <div className="text-center">

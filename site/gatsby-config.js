@@ -1,10 +1,10 @@
 /*eslint no-template-curly-in-string:0*/
 module.exports = {
   siteMetadata: {
-    title: `SketchXConf 2020`,
+    title: `newSketchXConf 2020`,
     description: `description`,
     author: `@you`,
-    siteUrl: `https://monica.dev/gatsbyworkshop`,
+    siteUrl: `https://keen-hodgkin-e0e05f.netlify.app/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
